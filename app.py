@@ -49,9 +49,9 @@ st.set_page_config(
 )
 
 # Add title and description
-st.title("📚 FAQ Bot")
+st.title("📚 PICT MUN Proccedings Bot")
 st.markdown("""
-Ask any question about the proceedings
+Ask any question about the proceedings:
 """)
 
 # Load model and tokenizer
