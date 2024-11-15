@@ -86,4 +86,4 @@ if st.button("Get Answer", type="primary"):
 
 # Add footer
 st.markdown("---")
-st.markdown("Made with ❤️ using DistilBERT")
+st.markdown("Made with ❤️ by PICT MUN")
